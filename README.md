@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usuleymanov
 - 👀 I’m interested in Computer Science, Machine Learning,  Natural Language Processing
-- 💞️ I’m looking to collaborate on ML/NLP
+- 💞️ I’m looking to collaborate on CS/ML/NLP
 - 📫 How to reach me https://www.linkedin.com/in/umid-suleymanov/
 
 <!---
